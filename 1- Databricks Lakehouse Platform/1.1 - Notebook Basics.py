@@ -8,6 +8,10 @@ print("Hello World!")
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC # Title 1
 # MAGIC ## Title 2
@@ -67,7 +71,3 @@ print(files)
 # COMMAND ----------
 
 display(files)
-
-# COMMAND ----------
-
-
